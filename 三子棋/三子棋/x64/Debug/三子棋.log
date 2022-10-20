@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\12414\Desktop\c代2022码\三子棋\三子棋\game.c(118,12): warning C4087: “rand”: 用“void”参数列表声明
+C:\Users\12414\Desktop\c代2022码\三子棋\三子棋\game.c(119,12): warning C4087: “rand”: 用“void”参数列表声明
+  三子棋.vcxproj -> C:\Users\12414\Desktop\c代2022码\三子棋\x64\Debug\三子棋.exe
