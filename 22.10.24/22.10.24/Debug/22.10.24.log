@@ -1,0 +1,20 @@
+﻿生成启动时间为 2022/10/24 22:29:49。
+     1>项目“C:\Users\12414\Desktop\C代2010码\22.10.24\22.10.24\22.10.24.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\22.10.24.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+       Manifest:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\22.10.24.unsuccessfulbuild”。
+         正在对“Debug\22.10.24.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\12414\Desktop\C代2010码\22.10.24\22.10.24\22.10.24.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.01
