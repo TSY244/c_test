@@ -1,0 +1,14 @@
+﻿  结构体的运用.c
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(44,8): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int (*)[100]”
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(51,7): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(112,9): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int *”
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(134,3): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(205,28): warning C4047: “>”:“int [4]”与“int”的间接级别不同
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(210,10): warning C4477: “printf”: 格式字符串“%.2lf”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(289,18): warning C4047: “函数”:“STUDENT *”与“STUDENT (*)[2]”的间接级别不同
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(289,14): warning C4024: “search”: 形参和实参 2 的类型不同
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(290,19): warning C4047: “函数”:“STUDENT *”与“STUDENT (*)[2]”的间接级别不同
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(290,15): warning C4024: “averageScore”: 形参和实参 1 的类型不同
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(292,17): warning C4047: “函数”:“STUDENT *”与“STUDENT (*)[2]”的间接级别不同
+C:\Users\12414\Desktop\c代2022码\结构体的运用\结构体的运用\结构体的运用.c(292,13): warning C4024: “comparemin”: 形参和实参 1 的类型不同
+  结构体的运用.vcxproj -> C:\Users\12414\Desktop\c代2022码\结构体的运用\x64\Debug\结构体的运用.exe
