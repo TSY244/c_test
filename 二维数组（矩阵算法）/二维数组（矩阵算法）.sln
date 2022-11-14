@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二维数组（矩阵算法）", "二维数组（矩阵算法）\二维数组（矩阵算法）.vcxproj", "{5DAF654B-B2D2-4260-AA3B-014D445AB7F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAF654B-B2D2-4260-AA3B-014D445AB7F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5DAF654B-B2D2-4260-AA3B-014D445AB7F9}.Debug|Win32.Build.0 = Debug|Win32
+		{5DAF654B-B2D2-4260-AA3B-014D445AB7F9}.Release|Win32.ActiveCfg = Release|Win32
+		{5DAF654B-B2D2-4260-AA3B-014D445AB7F9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
