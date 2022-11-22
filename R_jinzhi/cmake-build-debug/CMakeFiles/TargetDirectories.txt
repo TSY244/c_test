@@ -1,0 +1,3 @@
+C:/Users/12414/Desktop/clion/C++/R_jinzhi/cmake-build-debug/CMakeFiles/R_jinzhi.dir
+C:/Users/12414/Desktop/clion/C++/R_jinzhi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12414/Desktop/clion/C++/R_jinzhi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
