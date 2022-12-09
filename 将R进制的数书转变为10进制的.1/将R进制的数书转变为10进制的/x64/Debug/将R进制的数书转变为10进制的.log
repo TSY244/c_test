@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\12414\Desktop\vs\c代2022码\将R进制的数书转变为10进制的\将R进制的数书转变为10进制的\源.c(17,2): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\12414\Desktop\vs\c代2022码\将R进制的数书转变为10进制的\将R进制的数书转变为10进制的\源.c(19,9): warning C4013: “strlen”未定义；假设外部返回 int
+  将R进制的数书转变为10进制的.vcxproj -> C:\Users\12414\Desktop\vs\c代2022码\将R进制的数书转变为10进制的\x64\Debug\将R进制的数书转变为10进制的.exe
