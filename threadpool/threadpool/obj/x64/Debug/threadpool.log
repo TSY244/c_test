@@ -1,0 +1,30 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.5.132”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  threadpool.c
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(52,64): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(52,64): warning :          pool->threadIDs = (pthread_t*)malloc(sizeof(pthread_t) * max);
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(52,64): warning :                                                                 ^
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(58,54): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(58,54): warning :          memset(pool->threadIDs, 0, sizeof(pthread_t) * max);
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(58,54): warning :                                                       ^
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(75,50): warning : conversion to ‘long unsigned int’ from ‘int’ may change the sign of the result [-Wsign-conversion]
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(75,50): warning :          pool->taskQ = (Task*)malloc(sizeof(Task) * queueSize);
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(75,50): warning :                                                   ^
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(197,21): warning : implicit declaration of function ‘threadExit’ [-Wimplicit-function-declaration]
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(197,21): warning :                      threadExit(pool);
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(197,21): warning :                      ^
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(242,9): warning : implicit declaration of function ‘sleep’ [-Wimplicit-function-declaration]
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(242,9): warning :          sleep(3);
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(242,9): warning :          ^
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(290,6): warning : conflicting types for ‘threadExit’
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(290,6): warning :  void threadExit(ThreadPool* pool)
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(290,6): warning :       ^
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(197,21): message : previous implicit declaration of ‘threadExit’ was here
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(197,21): message :                      threadExit(pool);
+C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\threadpool.c(197,21): message :                      ^
+  正在链接对象
+  threadpool.vcxproj -> C:\Users\12414\Desktop\dai_ma_ku\vs\Linux\threadpool\threadpool\bin\x64\Debug\threadpool.out

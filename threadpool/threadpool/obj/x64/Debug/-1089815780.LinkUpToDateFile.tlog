@@ -1,0 +1,1 @@
+g++ -o "/home/chg/projects/threadpool/bin/x64/Debug/threadpool.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/chg/projects/threadpool/obj/x64/Debug/main.o /home/chg/projects/threadpool/obj/x64/Debug/threadpool.o -lpthread
